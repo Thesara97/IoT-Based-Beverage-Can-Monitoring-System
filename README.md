@@ -54,8 +54,7 @@ We would like to acknowledge and give our thanks to Dr. Vishaka Basnayake and th
   
 ## Authors
 
-- [@janithcbk123](https://github.com/janithcbk123)
 - [@Thesara97](https://github.com/Thesara97)
+- [@janithcbk123](https://github.com/janithcbk123)
 - [@NimeshMendis](https://github.com/NimeshMendis)
 - [@adiththa](https://github.com/adiththa)
-- @NawonPerera
